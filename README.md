@@ -58,4 +58,4 @@ Unable to post message to file://. Recipient has origin null.
     
 看字面意思是关闭对本地加载的html文件的一些安全限制。
 
-## sdk5 下 页面可能会一开始大小不对，然后变成对的
+## 需要为webVie开启硬件加速，会对流畅性有很大提高。
