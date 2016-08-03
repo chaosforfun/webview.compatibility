@@ -58,4 +58,4 @@ Unable to post message to file://. Recipient has origin null.
     
 看字面意思是关闭对本地加载的html文件的一些安全限制。
 
-## 需要为webVie开启硬件加速，会对流畅性有很大提高。
+## 需要为webView开启硬件加速，会对流畅性有很大提高。
